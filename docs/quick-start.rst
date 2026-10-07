@@ -216,7 +216,7 @@ Finally, program with echo for the next step
 
 .. code-block:: sh
 
-   $ go run ./scripts/testfuncs.go -slots 0,1
+   $ go run ./scripts/testfuncs.go -slots 0,1 -counter
 
 .. code-block:: output
 
