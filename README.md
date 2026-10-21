@@ -1,4 +1,4 @@
-# fRAC: Remote Accelerator Calls on FPGAs
+# fRAC: Remote Accelerator Calls on Hostless FPGAs
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23200153.svg)](https://doi.org/10.5281/zenodo.23200153)
 
