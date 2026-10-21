@@ -3,7 +3,7 @@ name: Publish documentation
 
 on:
   push:
-    branches: [artifact-eval]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
