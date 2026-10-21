@@ -2,8 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23200153.svg)](https://doi.org/10.5281/zenodo.23200153)
 
-This repository is the artifact of the ACM ATC '26 paper **fRAC: Remote
-Accelerator Calls on FPGAs**.
+This repository is the artifact of the ACM ATC '26 paper **fRAC: Remote Accelerator Calls on Hostless FPGAs**.
 
 fRAC enables request-level, in-network invocation of FPGA accelerators. It
 reassembles incoming request data, schedules requests to accelerators, and
